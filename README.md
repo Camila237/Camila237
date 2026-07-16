@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=Camila237&color=red" />
 </p>
 
-<p align="center"> <a href="https://camila237.github.io/portfolio-minimalist/" target="_blank"> <img src="https://img.shields.io/badge/🖥️ Ver_Portafolio-1d3557?style=for-the-badge&logo=astro&logoColor=white&color=2a9d8f" alt="Portafolio Badge" /> </a> </p>
+<p align="center"> <a href="https://camila237.github.io/cv/" target="_blank"> <img src="https://img.shields.io/badge/🖥️ Ver_Portafolio-1d3557?style=for-the-badge&logo=astro&logoColor=white&color=2a9d8f" alt="Portafolio Badge" /> </a> </p>
 
 
 ---
