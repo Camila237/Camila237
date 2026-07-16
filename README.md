@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0.0-informational" />
-  <img src="https://img.shields.io/badge/Update_date-215/07/2026-informational" />
+  <img src="https://img.shields.io/badge/Update_date-15/07/2026-informational" />
   <img src="https://komarev.com/ghpvc/?username=Camila237&color=red" />
 </p>
 
